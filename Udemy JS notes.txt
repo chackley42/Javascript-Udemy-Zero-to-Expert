@@ -1,0 +1,98 @@
+-----------Javascript Udemy course Notes-----------
+
+6/22/2021
+	Advice video:
+		Code along with the instructor. 
+		Attempt ALL coding challenges. Only view solution as a last resort.
+		Take notes. Take lots of notes. 
+		No need to know exactlly why things work in the beginning. Just learn.
+		Before moving on from a section, review and try to make sure I understand.
+		Try to solve problems myself, then get help. Software Engineers do this all the time.
+		Course is recorded on a mac, so things may be a little different for me.
+		Have fun. (Future 2d exploration game. 
+		
+12:37 Successfully cloned course to my machine through git
+
+
+6/28/2021
+    Video: 6. Section intro 
+    Video: 7, Hello world
+    Video: 8, A brief introduction to Javascript
+        Javascript is a high-level object-oriented, multi-paradigm, programming language
+        ?
+        JS tells computers to do stuff. 
+        Highlevel (I don't need to worry about machine Code)
+        Multi-paradigm, basically it's versatile and flexible
+
+        What is JS even used for?
+        the big 3, HTML CSS JS the bones of the internet
+        HTML is the nouns
+        CSS describes the noun
+        JS is the verb, like 'hide' the noun
+        Essentially any effect you see on the web, JS makes it happen
+        JS adds dynamic effects on pages and build applications.
+        JS is lightweight and is a rep of modern web dev.
+        Angular, is an example of a framework. They still use JS
+        JS is the 'low-level' of most webframeworks. It is good to know
+        node.js allows Web applications to run on the backend
+        JS can make 'Native' desktop and mobile apps.
+
+        ***I am learning the most recent javascript release
+        ES6/ES2015 is the most recesnt ECMAScript released. 
+    
+    Video: 9, Linking a Javascript File 
+
+        Grab the starter code,(I already pulled it using git )
+
+    Video: 10, Values and Variables
+
+        let or var are needed to name variables 
+        varialbe names may NOT start with an integer
+        be specific in naming varialbes. 
+        and be wary of reserved names.
+        Be descriptive in variable names.
+
+7/2/2021
+
+    Video 12. Data Types.
+
+        Data can have different types.
+
+        Value can have 2 types. Object, and anything else is Primative
+
+        Primative Data Types
+        - Number: Floating point numbers, Integers, and decimals. In JS
+        - String: Sequence of characters used for text.
+        - Boolean: Logic type, is True or False
+        - Undefined: Value taken by a variable that is not yet defined (empty Value)
+        - Null: Also means 'empty value'
+        - Symbol (ES2015): Value that is unique and cannot be changed (Not useful for now)
+        - BigInt (ES2020): Large integers that the Number type can't hold.
+
+        JS has dynamic typing: We do not have to declare the kind of datatype a variable is.
+        Value has type, NOT variable 
+
+
+7/28/2021
+
+    Video 17. String Template 
+
+        Template literals are like = `${variable}`
+        `` may be used as regular with javascript
+        \n means newline character. Useful for make a new line of characters
+
+8/13/2021
+
+    Video 18. if / else statments
+
+    if else control structure looks like:
+    if(){
+
+    }else {
+
+    }
+    *****
+    JS does not run code in a linear fashion. This will give us more 
+    control.
+
+
